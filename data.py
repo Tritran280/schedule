@@ -1,0 +1,1 @@
+print('Đã load thành công')
